@@ -1,6 +1,10 @@
 # 🤖 Google Sheet Expense Calculator - AI Browser Agent
 
+🚀 Live Deployment
+Try it Online NOW
+🎯 Streamlit UI (Interactive): 
 https://browser-control-with-ai-automate.streamlit.app/
+
 An intelligent browser automation agent that uses **Playwright** and **Google's Gemini LLM** to automatically:
 - 🌐 Open a Google Sheet in a visible browser
 - 🔐 Log in to your Google account
